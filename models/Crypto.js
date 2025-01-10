@@ -9,3 +9,4 @@ const cryptoSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Crypto', cryptoSchema);
+// this is schema for nosql database
